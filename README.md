@@ -1,6 +1,6 @@
 # SixSeven Jokes 🎭
 
-> **AI-powered humor platform for parents and teachers** — serving age-appropriate, personalized jokes with voice delivery to several hundred daily active users across iOS and Android.
+> **AI-powered humor platform for parents and teachers** — serving age-appropriate, personalized jokes with voice delivery across iOS and Android.
 
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Live-orange)](https://www.producthunt.com/products/sixseven-jokes)
 [![Website](https://img.shields.io/badge/Website-67jokes.com-blue)](https://67jokes.com/)
@@ -11,8 +11,7 @@
 
 ## ⚠️ Disclaimer
 
-> **This repository contains selected code demos and architecture showcases from the SixSeven Jokes project. The full production codebase (backend services, frontend apps, deployment configs, proprietary data) is not open-sourced.** These modules demonstrate the core AI/ML engineering work I led as Founding Engineer and AI Lead.
-
+> **This repository contains selected code demos and architecture showcases from the SixSeven Jokes project. The full production codebase (backend services, frontend apps, deployment configs, proprietary data) is not open-sourced.** 
 ---
 
 ## Overview
